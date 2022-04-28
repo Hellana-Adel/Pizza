@@ -1,1 +1,3 @@
 - KBS project from Hellana.txt: This is part got an error.
+- Deftemplate Hellana after update.clp: This is create the Template 'Structure' of subjects.
+- Seeded-Data-by-Hellana.clp: This create a test data to work with. 
